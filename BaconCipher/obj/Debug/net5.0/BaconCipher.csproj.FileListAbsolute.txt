@@ -1,0 +1,16 @@
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.csproj.AssemblyReference.cache
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.AssemblyInfoInputs.cache
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.AssemblyInfo.cs
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.csproj.CoreCompileInputs.cache
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\bin\Debug\net5.0\BaconCipher.exe
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\bin\Debug\net5.0\BaconCipher.deps.json
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\bin\Debug\net5.0\BaconCipher.runtimeconfig.json
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\bin\Debug\net5.0\BaconCipher.runtimeconfig.dev.json
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\bin\Debug\net5.0\BaconCipher.dll
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\bin\Debug\net5.0\ref\BaconCipher.dll
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\bin\Debug\net5.0\BaconCipher.pdb
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.dll
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\ref\BaconCipher.dll
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.pdb
+C:\Users\XCannibal\Desktop\BASTION\Programming\BaconCipher\BaconCipher\obj\Debug\net5.0\BaconCipher.genruntimeconfig.cache
