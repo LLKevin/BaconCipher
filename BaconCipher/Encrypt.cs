@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace BaconCipher
 {
     public static class Encrypt
-    {
+    { 
         private static string GetEncodedValue(char letter)
         {
             BaconDictionary dictionary = new BaconDictionary();
@@ -18,9 +18,18 @@ namespace BaconCipher
         {
             string baconciphertext = "";
 
-            for(int i = 0; i < text.Length; i++)
+            text = text.ToUpper();
+            for (int i = 0; i < text.Length; i++)
             {
-                baconciphertext += GetEncodedValue(text[i]);
+                //if there is a blank space skip the dictionary check and add it. Assumes the spaces are words
+                if (text[i] != ' ')
+                {
+                    baconciphertext += GetEncodedValue(text[i]);
+                }
+                else
+                {
+                    baconciphertext += " ";
+                }
             }
 
             return baconciphertext; //baconciphertext
